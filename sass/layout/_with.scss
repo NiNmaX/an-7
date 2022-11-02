@@ -1,0 +1,66 @@
+.with > div {
+  background-color: #E6F7FF;
+  padding-top: 63px;
+  padding-left: 64px;
+  padding-bottom: 64px;
+  margin-top: 80px;
+}
+
+.with-text {
+  width: 503px;
+}
+
+.with-text1 {
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  color: #1F1F1F;
+}
+
+.with-text2 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 0.2px;
+  color: #1F1F1F;
+  margin-bottom: 33px;
+  margin-top: 21px;
+}
+
+.with-text_btn {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 27px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #FFFFFF;
+  background-color: #0070A0;
+  padding: 8px 32px;
+}
+
+.with-icons {
+  display: flex;
+  margin-top: 20px;
+  column-gap: 36px;
+}
+
+.with-icon {
+  display: flex;
+}
+.with-icon_text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  color: #626A72;
+  margin-left: 3px;
+}

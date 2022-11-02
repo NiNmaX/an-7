@@ -1,0 +1,49 @@
+.fast-cards {
+  display: flex;
+  column-gap: 32px;
+  margin-top: 168px;
+  margin-bottom: 120px;
+}
+
+.fast-card1 {
+  background-color: #FAEA73;
+  padding: 32px;
+  width: 355px;
+  height: 250px;
+}
+
+.fast-card2 {
+  background-color: #CCEFF6;
+  padding: 32px;
+  width: 355px;
+  height: 250px;
+}
+
+.fast-card3 {
+  background-color: #F7CEDC;
+  padding: 32px;
+  width: 355px;
+  height: 250px;
+}
+
+.fast-card_text1 {
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 31px;
+  letter-spacing: 0.2px;
+  color: #1F1F1F;
+  margin-top: 12px;
+  margin-bottom: 13px;
+}
+
+.fast-card_text2 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #1F1F1F;
+}

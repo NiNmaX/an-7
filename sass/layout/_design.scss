@@ -1,0 +1,57 @@
+.design > div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left_text1 {
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 58px;
+  line-height: 64px;
+  letter-spacing: 0.2px;
+  color: #1F1F1F;
+  margin-top: 121px;
+  margin-bottom: 24px;
+  width: 485px;
+}
+
+.left_text2 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #1F1F1F;
+  margin-right: 344px;
+  width: 351px;
+  margin-bottom: 37px;
+}
+
+.left_text-footer {
+  display: flex;
+  align-items: center;
+}
+
+.footer_btn {
+  background-color: #0070A0;
+  margin-right: 24px;
+}
+
+.footer_link {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 27px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #FFFFFF;
+  padding: 8px 32px;
+}
+
+.design-right_text
+{
+  margin-top: 70px;
+}

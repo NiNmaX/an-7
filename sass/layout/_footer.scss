@@ -1,0 +1,127 @@
+.footer {
+  margin-top: 128px;
+}
+
+.footer > div {
+  display: flex;
+}
+
+.footer_left_icon {
+  margin-bottom: 19px;
+}
+
+.footer_left_text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #1F1F1F;
+}
+
+.footer_left_text_link {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #0070A0;
+}
+
+.footer_right {
+  display: flex;
+  margin-left: 300px;
+}
+
+.footer_right_card {
+  width: 216px;
+}
+
+.footer_right_card_text1 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #1F1F1F;
+  margin-bottom: 16px;
+}
+
+.footer_right_card_text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #626A72;
+  margin-bottom: 10px;
+}
+
+.footer_right_card_text2 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #1F1F1F;
+}
+
+.footer-form {
+  display: flex;
+  align-items: center;
+}
+
+.footer-input {
+  border: none;
+}
+
+.footer-form_btn {
+  background-color: #fff;
+}
+
+.footer-icon {
+  padding-left: 155px;
+  margin-top: 70px;
+}
+
+.footer_right_card_text4 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #1F1F1F;
+  padding-left: 155px;
+  margin-top: 36px;
+  margin-bottom: 47px;
+}
+
+.footer_right_card_text5 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  color: #0070A0;
+}
+
+.footer_right_card_text3 {
+  display: flex;
+}
+
+.footer-card {
+  margin-top: 44px;
+  margin-left: 633px;
+}
+
+.footer-card1 {
+  margin-left: 20px;
+  margin-right: 20px;
+}

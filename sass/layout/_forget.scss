@@ -1,0 +1,63 @@
+.forget  {
+  background-color: #0070A0;
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+.forget > div {
+  display: flex;
+  justify-content: space-around;
+}
+
+.forget_right_text_1 {
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  color: #FFFFFF;
+  width: 403px;
+  margin-bottom: 21px;
+}
+
+.forget_right_text_2 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 0.2px;
+  color: #FFFFFF;
+  width: 440px;
+  margin-bottom: 17px;
+}
+
+.forget_right_card {
+  display: flex;
+  align-items: center;
+}
+
+.forget_right_card_text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+  color: #FFFFFF;
+  margin-left: 8px;
+  margin-bottom: 11px;
+}
+
+.forget_right_link {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 27px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #FFFFFF;
+  margin-left: 50px;
+}

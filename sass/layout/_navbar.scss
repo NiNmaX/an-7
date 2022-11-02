@@ -1,0 +1,42 @@
+.header-navbar {
+  display: flex;
+  column-gap: 39px;
+  align-items: center
+}
+
+.header-navbar_menu {
+  display: flex;
+  align-items: center;
+  column-gap: 45px;
+}
+
+.nav_form {
+  display: flex;
+  margin-left: 445px;
+  column-gap: 31px;
+}
+
+.form_btn {
+  background-color: #0070A0;
+}
+
+.sumbit_link {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #FFFFFF;
+  padding: 6px 20px;
+}
+
+.form_link {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #0070A0;
+}
